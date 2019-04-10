@@ -1,0 +1,54 @@
+/*
+Theme Name: ImobiliariaMariachi
+Theme URI: 
+Author: Crisciano S. Botelho
+Author URI: http://mariachi.com.br
+Description: Theme desenvolvido pela Mariachi Estratégias Digitais
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: imobiliária, mariachi, imobiliariamariachi
+Text Domain: imobiliariamariachi
+*/
+
+section{
+	padding:  80px 0;
+}
+
+
+
+#nav{ 
+	background:#c3c3c3;  
+	padding:  15px 0;
+
+}
+footer{
+	background:#c3c3c3;  
+	padding:  30px 0;
+}
+footer p{ margin-bottom: 0; }
+
+#header{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.menu-header-menu-container ul{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin-bottom: 0;
+	padding-left: 0;
+    list-style: none;
+}
+.menu-header-menu-container ul li{
+	text-decoration: none;
+}
+.menu-header-menu-container ul li a{
+	padding:  5px 10px;
+	display: block;
+}
+
+.card-body{
+	padding: 15px;
+}
